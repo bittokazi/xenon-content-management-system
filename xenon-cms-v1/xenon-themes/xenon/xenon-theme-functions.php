@@ -1,0 +1,1 @@
+<?phpregister_xenon_widget('side-bar');register_xenon_menu('upper-menu');xenon_custom_link('wooc','xenon-themes/xenon/wooc.php');?>
